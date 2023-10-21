@@ -1,3 +1,13 @@
 body {
     background-color: rgb(4, 66, 66);
 }
+
+:root {
+    --text-color: #FFFFFF;
+    --buttontext-color: #26C7EA;
+    --buttob-color: #0B0E66;
+    --quote-color: #0A3853;
+    --launge-color: #000000;
+
+
+}
